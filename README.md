@@ -2,8 +2,7 @@
   <b>Hi there 👋, I'm Akash </b><br>
 </h1>
 
-## About Me
-
+## About Me 😁
 I'm a Computer Science student at Washington University in St. Louis. I'm passionate about the intersection of medicine and technology. Some interests include graph databases, machine learning, and bioinformatics.
 
 ## Reach Out 📫
@@ -26,6 +25,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## What I'm Doing
+
+### Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### GitHub Snapshot
 
