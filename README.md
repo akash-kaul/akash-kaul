@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## What I'm Doing 🚀
 
-### Latest Blogs
+### Latest Blogs 📝
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
