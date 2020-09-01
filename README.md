@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## What I'm Doing
+## What I'm Doing 🚀
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
