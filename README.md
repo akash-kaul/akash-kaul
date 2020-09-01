@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 <h1 align="center">
   <b>Hi there 👋, I'm Akash </b><br>
 </h1>
