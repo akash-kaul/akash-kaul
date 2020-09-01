@@ -1,9 +1,8 @@
-<p align="center">
+<h1 align="center">
   <b>Hi there 👋, my name's Akash Kaul</b><br>
-  <br><br>
-</p>
+</h1>
 
-##
+## Computer Science student at Washington University in St. Louis
 
 <!--
 **akash-kaul/akash-kaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
