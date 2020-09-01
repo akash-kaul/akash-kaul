@@ -1,4 +1,9 @@
-# Hi there 👋, my name's Akash Kaul
+<p align="center">
+  <b>Hi there 👋, my name's Akash Kaul</b><br>
+  <br><br>
+</p>
+
+##
 
 <!--
 **akash-kaul/akash-kaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
