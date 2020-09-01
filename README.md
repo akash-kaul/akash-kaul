@@ -7,7 +7,7 @@ I'm a Computer Science student at Washington University in St. Louis. I'm passio
 
 ## Reach Out 📫
 
-- [akash.kaul@wustl.edu](mailto:akash.kaul@wustl.edu)
+- [Email](mailto:akash.kaul@wustl.edu)
 - [LinkedIn](https://www.linkedin.com/in/akash-kaul-6a8063194/)
 - [Website](https://akashkaul.com)
 
