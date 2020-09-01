@@ -1,8 +1,8 @@
 name: Update README 
 on:
   schedule:
-    # Runs once a day
-    - cron: '0 0 * * *'
+    # Runs once an hour
+    - cron: '0 * * * *'
 
 jobs:
   update-readme-with-blog:
