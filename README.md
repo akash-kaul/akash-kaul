@@ -1,8 +1,15 @@
 <h1 align="center">
-  <b>Hi there 👋, my name's Akash Kaul</b><br>
+  <b>Hi there 👋, I'm Akash </b><br>
 </h1>
 
-## Computer Science student at Washington University in St. Louis
+## About Me
+
+I'm a Computer Science student at Washington University in St. Louis. I'm passionate about the intersection of medicine and technology. Some interests include graph databases, machine learning, and bioinformatics.
+
+## Reach Out 📫
+
+- Email [akash.kaul@wustl.edu](mailto:akash.kaul@wustl.edu)
+- [LinkedIn](https://www.linkedin.com/in/akash-kaul-6a8063194/)
 
 <!--
 **akash-kaul/akash-kaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
