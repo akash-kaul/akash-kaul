@@ -8,8 +8,9 @@ I'm a Computer Science student at Washington University in St. Louis. I'm passio
 
 ## Reach Out 📫
 
-- Email [akash.kaul@wustl.edu](mailto:akash.kaul@wustl.edu)
+- [akash.kaul@wustl.edu](mailto:akash.kaul@wustl.edu)
 - [LinkedIn](https://www.linkedin.com/in/akash-kaul-6a8063194/)
+- [Website](https://akashkaul.com)
 
 <!--
 **akash-kaul/akash-kaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
