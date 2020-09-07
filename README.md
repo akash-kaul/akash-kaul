@@ -4,7 +4,7 @@
 </h1>
 
 ## About Me 😁
-I'm a Computer Science student at Washington University in St. Louis. I'm passionate about the intersection of medicine and technology. Some interests include graph databases, machine learning, and bioinformatics.
+I'm a Computer Science student at Washington University in St. Louis. Some of my interests include graph databases, machine learning, and backend development. I'm especially passionate about the intersection of medicine and technology, including bioinformatics and medical NLP.
 
 ## Reach Out 📫
 
