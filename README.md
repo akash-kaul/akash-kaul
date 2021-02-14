@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Latest Blogs 📝
 <!-- BLOG-POST-LIST:START -->
-- [DIY Nanoleafs — Part 1 (Construction)](https://medium.com/nerd-for-tech/diy-nanoleafs-part-1-construction-d17ccf6d606c?source=rss-fc0227505fc6------2)
+- [DIY Nanoleafs — Part 1 (Construction)](https://medium.com/@akash_kaul/diy-nanoleafs-part-1-construction-d17ccf6d606c?source=rss-fc0227505fc6------2)
 - [Building a Custom Fraud Detection Dashboard](https://towardsdatascience.com/building-a-custom-fraud-detection-dashboard-1a91bfc62111?source=rss-fc0227505fc6------2)
 - [Creating Interactive Data Tables in Plotly Dash](https://towardsdatascience.com/creating-interactive-data-tables-in-plotly-dash-6d371de0942b?source=rss-fc0227505fc6------2)
 - [Getting Started with TigerGraph Starter Kits](https://medium.com/@akash_kaul/getting-started-with-tigergraph-starter-kits-5a4d8ddac974?source=rss-fc0227505fc6------2)
