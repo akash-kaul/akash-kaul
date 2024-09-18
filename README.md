@@ -4,13 +4,12 @@
 </h1>
 
 ## About Me 😁
-I'm a Computer Science student at Washington University in St. Louis. Some of my interests include graph databases, machine learning, and backend development. I'm especially passionate about the intersection of medicine and technology, including bioinformatics and medical NLP.
+I'm a Software Engineer in the San Francisco Bay Area. I studied Computer Science at Washington University in St. Louis. Some of my interests include graph databases, machine learning, and backend development. I'm especially passionate about the intersection of medicine and technology, including bioinformatics and medical NLP.
 
 ## Reach Out 📫
 
 - [Email](mailto:akash.kaul@wustl.edu)
 - [LinkedIn](https://www.linkedin.com/in/akash-kaul-6a8063194/)
-- [Website](https://akashkaul.com)
 
 <!--
 **akash-kaul/akash-kaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
