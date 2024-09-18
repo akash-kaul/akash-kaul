@@ -4,7 +4,7 @@
 </h1>
 
 ## About Me 😁
-I'm a Software Engineer in the San Francisco Bay Area. I studied Computer Science at Washington University in St. Louis. Some of my interests include graph databases, machine learning, and backend development. I'm especially passionate about the intersection of medicine and technology, including bioinformatics and medical NLP.
+I'm a Software Engineer in the San Francisco Bay Area. I studied Computer Science at Washington University in St. Louis. My interests include graph databases, machine learning, and backend development. I'm especially passionate about the intersection of medicine and technology, including bioinformatics, medical NLP, and healthcare technologies.
 
 ## Reach Out 📫
 
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - [Creating Interactive Data Tables in Plotly Dash](https://towardsdatascience.com/creating-interactive-data-tables-in-plotly-dash-6d371de0942b?source=rss-fc0227505fc6------2)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ### GitHub Snapshot
 
 ![Github stats](https://github-readme-stats-nine-gamma-72.vercel.app/api?username=akash-kaul&theme=synthwave&show_icons=true&count_private=true)
@@ -44,3 +45,5 @@ Here are some ideas to get you started:
 ### Top Languages
 
 ![Top Languages Card](https://github-readme-stats-nine-gamma-72.vercel.app/api/top-langs/?username=akash-kaul&layout=compact)
+
+-->
